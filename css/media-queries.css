@@ -1,0 +1,13 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+    .wrapper {
+        width: 750px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+    .wrapper {
+        width: 450px;
+    }
+}
